@@ -31,6 +31,8 @@ Represents a coffee item.
 - `name`: Name of the coffee (e.g., `"Latte"`)
 - `price`: Price of the coffee (e.g., `3.5`)
 
+![image alt](https://github.com/Nikhil-Gupta67/coffee-/blob/main/Screenshot%202025-09-16%20171310.png?raw=true)
+
 ### `Order`
 Manages the user's order.
 
